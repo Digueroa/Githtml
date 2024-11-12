@@ -1,3 +1,4 @@
-Meu nome e Rodrigo
-Estou estudando HTML,CSS
-Espero me torna um excelente desenvolvedor Web.
+### Meu Nome é Rodrigo
+Estudante Analise Sistema de Informação
+Atualmente mais focando em :
+HTML,CSS e Java
