@@ -1,5 +1,5 @@
 ### Meu Nome é Rodrigo
-- Estudante Analise Sistema de Informação
+- Cursando Análise e Desenvolvimento de Sistemas
 - Estudando HTML e CSS
 
 
